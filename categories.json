@@ -1,5 +1,36 @@
 [
     {
+      "title": "Vlees",
+      "emoji": "🥩",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Vis",
+      "emoji": "🐟",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Zuivel",
+      "subtitle": "Melk, kaas en vervangers",
+      "emoji": "🧀",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Groente",
+      "emoji": "🥦",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Fruit",
+      "emoji": "🍓",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
       "title": "Zuivel",
       "emoji": "🐮",
       "subtitle": "Melk, kaas en kaasvervangers",
