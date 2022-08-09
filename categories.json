@@ -1,0 +1,239 @@
+[
+    {
+      "title": "Zuivel",
+      "emoji": "🐮",
+      "subtitle": "Melk, kaas en kaasvervangers",
+      "description": "Zuivel heb je nodig om voldoende jodium, vitamine B2 en calcium binnen te krijgen. Neem elke dag ongeveer een halve liter zuivel. Dat zijn 3-4 glaasjes of schaaltjes van 150ml, of 2 grote mokken. Gezonde keuzes zijn bijvoorbeeld magere of halfvolle melk, yoghurt of kwark. Daarnaast is het advies om 40 gram kaas per dag te nemen, bijvoorbeeld 30+ kaas.\n\nDrink geen rauwe melk en eet zachte kazen gemaakt van rauwe melk alleen als je ze goed verhit, bijvoorbeeld in de oven. Je kunt deze herkennen als op het etiket staat: 'gemaakt van rauwe melk' of 'au lait cru'. In rauwmelkse zachte kazen kan Listeria voorkomen. Die kunnen schadelijk zijn voor je baby. Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🧀",
+          "title": "Kaas",
+          "productIDs": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]
+        },
+        {
+          "emoji": "🧀",
+          "title": "Kaasvervanger",
+          "productIDs": [26]
+        },
+        {
+          "emoji": "🥛",
+          "title": "Melk",
+          "productIDs": [27,28,29,30,31]
+        },
+        {
+          "emoji": "🥛",
+          "title": "Plantaardige melk",
+          "productIDs": [32,33,34,35,36,54,55]
+        },
+        {
+          "emoji": "🥛",
+          "title": "Yoghurts",
+          "productIDs": [56,57,58,59,60,61]
+        },
+         {
+          "emoji": "🥛",
+          "title": "Overige zuivel",
+          "productIDs": [62,63,64]
+        }
+      ]
+       
+    },
+    {
+      "title": "Vlees(vervanger), vis en ei",
+      "emoji": "🥩",
+      "description": "Tijdens je zwangerschap is het advies om elke week 4 keer vlees (125g per keer), 2 keer vis en 1 keer ei, peulvruchten of ongezouten noten te eten. Je krijgt goede visvetzuren binnen als je elke week 2 keer vis eet, waarvan 1 vette vis (zoals zalm) en 1 magere vis (zoals tilapia). Bekijk in de app welke vissen je veilig kunt eten. Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🍖",
+          "title": "Bewerkt vlees: kip, rund, varken",
+          "productIDs": [37,38,39,40,41,42,43,44,45,46,47,48]
+        },
+        {
+          "emoji": "🧆",
+          "title": "Vleesvervangers",
+          "productIDs": [49,50,51,52,53]
+        },
+                        {
+          "emoji": "🐟",
+          "title": "Vis",
+          "productIDs": []
+        },
+        {
+          "emoji": "🥚",
+          "title": "Ei",
+          "productIDs": [65,66,67,68]
+        }
+      ]
+    },
+    {
+      "title": "Dranken",
+      "emoji": "🥤",
+      "subtitle": "Alcohol, koffie, thee, frisdrank, sap",
+      "description": "Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🍷",
+          "title": "Alcohol",
+          "productIDs": []
+        },
+        {
+          "emoji": "🧃",
+          "title": "Frisdrank, sap en limonade",
+          "productIDs": []
+        },
+        {
+          "emoji": "☕️",
+          "title": "Water, thee en koffie",
+          "productIDs": []
+        }
+      ]
+    },
+    {
+      "title": "Kruiden en specerijen",
+      "emoji": "🧂",
+      "subtitle": "Suiker, zoetstof, zout, kruiden, azijn",
+      "description": "Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🍬",
+          "title": "Suiker",
+          "productIDs": []
+        },
+        {
+          "emoji": "🍬",
+          "title": "Zoetstof",
+          "productIDs": []
+        },
+        {
+          "emoji": "🧂",
+          "title": "Zout, kruiden, specerijen, azijn",
+          "productIDs": []
+        }
+      ]
+    },
+    {
+      "title": "Groente en fruit",
+      "emoji": "🍓",
+      "subtitle": "Vers, in blik, diepvries, gedroogd",
+      "description": "Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🍍",
+          "title": "Fruit in blik of glas en gedroogd",
+          "productIDs": []
+        },
+        {
+          "emoji": "🍌",
+          "title": "Fruit inclusief diepvries",
+          "productIDs": [123,124,126]
+        },
+        {
+          "emoji": "🌽",
+          "title": "Groente in blik of glas en gedroogd",
+          "productIDs": [72,74,75,76,79,80,84,85,87,91,92,93,94,95,96,97,98,99,100,125,110,111,113,119]
+        },
+        {
+          "emoji": "🥦",
+          "title": "Groente inclusief diepvries",
+          "productIDs": [70,71,72,73,74,75,76,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,125,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120]
+        }
+      ]
+    },
+    {
+      "title": "Aardappels, rijst en pasta",
+      "emoji": "🥔",
+      "description": "Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🥔",
+          "title": "Aardappel, onbewerkt",
+          "productIDs": [90]
+        },
+        {
+          "emoji": "🍟",
+          "title": "Aardappelschijfjes, puree en friet",
+          "productIDs": []
+        },
+        {
+          "emoji": "🍝",
+          "title": "Pasta, couscous, quinoa en noodles",
+          "productIDs": []
+        },
+        {
+          "emoji": "🍚",
+          "title": "Rijst",
+          "productIDs": []
+        },
+        {
+          "emoji": "🫓",
+          "title": "Wrap, pizzabodem en pannenkoek",
+          "productIDs": []
+        }
+      ]
+    },
+    {
+      "title": "Bonen, noten en zaden",
+      "emoji": "🥜",
+      "description": "Blabla...",
+      "subcategories": [
+        {
+          "emoji": "🥜",
+          "title": "Noten, pinda's en zaden",
+          "productIDs": []
+        },
+        {
+          "emoji": "🫘",
+          "title": "Peulvruchten (zoals bonen)",
+          "productIDs": []
+        }
+      ]
+    },
+    {
+      "title": "Brood en ontbijtgranen",
+      "emoji": "🍞",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Broodbeleg",
+      "emoji": "🥪",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Olie en boter",
+      "emoji": "🧈",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Soepen en sauzen",
+      "emoji": "🍲",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Gebak, snoep, koek en chips",
+      "emoji": "🍰",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "(Gefrituurde) snacks en ijs",
+      "emoji": "🍨",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Kant-en-klaarmaaltijden",
+      "emoji": "🍜",
+      "description": "Blabla...",
+      "subcategories": []
+    },
+    {
+      "title": "Dieetproducten en supplementen",
+      "emoji": "💊",
+      "description": "Blabla...",
+      "subcategories": []
+    }
+  ]
