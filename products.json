@@ -1,0 +1,768 @@
+[
+  {
+    "id": 1,
+    "title": "Geitenkaas",
+    "synonyms": ["Le Cabrissac", "Alphenaer", "Bettine", "Florette", "Arina"],
+    "description": "Zowel harde als zachte geitenkaas is veilig om te eten tijdens de zwangerschap. Let er bij zachte geitenkaas op dat er ‘gepasteuriseerd’ op de verpakking staat, het mag niet gemaakt zijn van rauwe melk. Twijfel je? Vraag dan na bij de speciaalzaak.",
+    "safety": 0
+  },
+  {
+    "id": 2,
+    "title": "Brie",
+    "synonyms": ["Roombrie", "Castello", "Président", "Roitelet", "Le Rustique", "Saint Benoit", "Comtesse", "Chamois", "De Meaux", "Le Délice"],
+    "description": "Brie is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 3,
+    "title": "Camembert",
+    "synonyms": ["Gaslande", "Vallee", "Chatelain", "Le Rustique", "Père Eugène", "Président", "Calvados"],
+    "description": "Camembert is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 4,
+    "title": "Chaumes",
+    "description": "Chaumes is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 5,
+    "title": "Kernhem",
+    "description": "Kernhem is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 6,
+    "title": "Munster",
+    "synonyms": ["Ermitage", "Gerome"],
+    "description": "Munster is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 7,
+    "title": "Taleggio",
+    "synonyms": ["Campagnola"],
+    "description": "Taleggio is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 8,
+    "title": "Boursault",
+    "description": "Boursault is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 9,
+    "title": "Explorateut",
+    "description": "Explorateut is veilig om te eten, als het maar gepasteuriseerd is. In supermarkten is dit meestal het geval, maar in kaasspeciaalzaken kan het ook soms ongepasteuriseerd zijn. Als het is gemaakt van rauwe melk, is er een kans dat er onder andere de beacterie liseria in zit. Hoewel de kans vrij klein is dat je een listeriabesmetting op loopt, kan het leiden tot vroeggeboorte of zelfs het overlijden van de baby. Vraag het bij twijfel altijd even na voordat je het koopt in een speciaalzaak.",
+    "safety": 1
+  },
+  {
+    "id": 10,
+    "title": "Oude kaas",
+    "synonyms": ["Old Amsterdam", "brokkelkaas", "30+ kaas", "48+ plakken", "35+ kaas", "50+ kaas"], 
+    "description": "Oude kaas is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 11,
+    "title": "Belegen kaas",
+    "synonyms": ["30+ kaas", "35+ kaas", "jong belegen", "48+ kaas", "Maaslander"],
+    "description": "Belegen kaas is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 12,
+    "title": "Jonge kaas",
+    "synonyms": ["jong belegen", "Maaslander"],
+    "description": "Jonge kaas is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 13,
+    "title": "Boerenkaas",
+    "description": "Boerenkaas is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 14,
+    "title": "Cheddar",
+    "description": "Cheddar is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 15,
+    "title": "Emmentaler",
+    "synonyms": ["Kaltbach", "Castello", "Gatenkaas"],
+    "description": "Emmentaler is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 16,
+    "title": "Leerdammer",
+    "description": "Leerdamer is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 17,
+    "title": "Cantal AOP",
+    "description": "Cantal is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 18,
+    "title": "Pecorino",
+    "synonyms": ["Pecorino Pepato", "Pecorino Moliterno al Tartufo", "Pecorino Romano"],
+    "description": "Pecorino is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 19,
+    "title": "Manchego",
+    "description": "Manchego is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 20,
+    "title": "Parmezaanse kaas",
+    "synonyms": ["Parmigiano Reggiano"],
+    "description": "Parmezaanse kaas is altijd veilig om te eten tijdens de zwangerschap. In harde kazen zit namelijk een hoge zuurgraad waardoor de gevaarlijke listeriabacterie niet kan groeien.",
+    "safety": 0
+  },
+  {
+    "id": 21,
+    "title": "Gorgonzola",
+    "synonyms": ["Magor", "Gormas"],
+    "description": "Gorgonzola kan je eten als er geen gebruik is gemaakt van rauwe melk. Let er goed op bij de verpakking staat dat de kaas is gepasteuriseerd om de kans op een listeriabesmetting te voorkomen.",
+    "safety": 1
+  },
+  {
+    "id": 22,
+    "title": "Feta",
+    "synonyms": ["Witte kaas"],
+    "description": "Feta wordt bijna altijd gemaakt van gepasteuriseerde melk, zeker de feta die je koopt in de supermarkt. Kijk goed op de verpakking of er geen \"rauwe melk\" of \"au lait cru\" op de verpakking staat om de kans op een listeriabesmetting te voorkomen.",
+    "safety": 1
+  },
+  {
+    "id": 23,
+    "title": "Roquefort",
+    "synonyms": ["Black Venières", "Marival", "Danablu", "Castelli"],
+    "description": "Sommigen zeggen dat je deze kaas wel kan eten omdat de listeria bacterie er nog niet eerder is aangetroffen. Om toch eventuele risico's uit te sluiten, raden we je aan om geen tot heel weinig Roquefort te eten tijdens je zwangerschap.",
+    "safety": 1
+  },
+  {
+    "id": 24,
+    "title": "Mozzarella",
+    "synonyms": ["Buffel mozzarella", "Galbani"],
+    "description": "Mozzarella kan zowel gemaakt worden van gepasteuriseerde als rauwe melk. Bijna alle varianten in de supermarkt zijn gepasteuriseerd, maar er zijn ook speciaalzaken waar je de ongepasteuriseerde variant tegen komt. Kijk goed op de verpakking of vraag het even na. Mozzarella die is verhit op een pizza kan je altijd veilig eten. ",
+    "safety": 1
+  },
+  {
+    "id": 25,
+    "title": "Burrata",
+    "description": "Burrata kan zowel gemaakt worden van gepasteuriseerde als rauwe melk. Bijna alle varianten in de supermarkt zijn gepasteuriseerd, maar er zijn ook speciaalzaken waar je de ongepasteuriseerde variant tegen komt. Kijk goed op de verpakking of vraag het even na.",
+    "safety": 1
+  },
+  {
+    "id": 26,
+    "title": "Plantaardige kaas",
+    "synonyms": ["Violife", "Vegan kaas"],
+    "safety": 1
+  },
+  {
+    "id": 27,
+    "title": "Geitenmelk",
+    "description": "Geitenmelk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium is tijdens de zwangerschap erg belangrijk en er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.\nGeitenmelk kan hieraan bijdragen. Geitenmelk uit de supermarkt is altijd helemaal veilig.",
+    "safety": 0
+  },
+  {
+    "id": 28,
+    "title": "Volle melk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium is tijdens de zwangerschap erg belangrijk en er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.\n\nMelk uit de supermarkt is altijd helemaal veilig.",
+    "safety": 0
+  },
+  {
+    "id": 29,
+    "title": "Halfvolle melk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium is tijdens de zwangerschap erg belangrijk en er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.\n\nMelk uit de supermarkt is altijd helemaal veilig.",
+    "safety": 0
+  },
+  {
+    "id": 30,
+    "title": "Magere melk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium is tijdens de zwangerschap erg belangrijk en er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.\n\nMelk uit de supermarkt is altijd helemaal veilig.",
+    "safety": 0
+  },
+  {
+    "id": 31,
+    "title": "Schapenmelk",
+    "description": "Schapenmelk zit vol met gezonde voedingsstoffen voor jou en je baby. Let er wel op dat het vetgehalte hoger is dan bij koemelk en je hier rekening mee moet houden in je dieet. Calcium is tijdens de zwangerschap erg belangrijk en er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.\n\nKan je schapenmelk vinden in de supermarkt, dan is dit veilig. Vraag anders na of de melk goed is verhit om er zeker van te zijn dat de listeriabacteria niet in de melk kan zitten.",
+    "safety": 0
+  },
+  {
+    "id": 32,
+    "title": "Sojamelk",
+    "description": "Sojamelk kan je gewoon veilig drinken, maar zorg er wel voor dat je niet te veel sojaproducten per week binnen krijgt. Het Voedingscentrum raadt aan om niet meer dan 4 glaasjes of schaaltjes (150 ml) sojadrink/yoghurt per dag te nemen en maximaal 2 keer in de week andere sojaproducten (denk aan tofu en tempé). \n\nHiermee voorkom je dat te veel isoflavonen binnen krijgt. Te veel isoflavonen tijdens de zwangerschap heeft mogelijk invloed op de ontwikkeling van de geslachtsorganen van de baby.",
+    "safety": 0
+  },
+    {
+    "id": 33,
+    "title": "Amandelmelk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium, B2 en B12 zijn tijdens de zwangerschap erg belangrijk. Zorg dat je melkvervanger dat ook levert. Er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.",
+    "safety": 0
+  },
+  {
+    "id": 34,
+    "title": "Rijstmelk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium, B2 en B12 zijn tijdens de zwangerschap erg belangrijk. Zorg dat je melkvervanger dat ook levert. Er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.",
+    "safety": 0
+  },
+    {
+    "id": 35,
+    "title": "Havermelk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium, B2 en B12 zijn tijdens de zwangerschap erg belangrijk. Zorg dat je melkvervanger dat ook levert. Er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.",
+    "safety": 0
+  },
+  {
+    "id": 36,
+    "title": "Kokosmelk",
+    "description": "Melk zit vol met gezonde voedingsstoffen voor jou en je baby. Calcium, B2 en B12 zijn tijdens de zwangerschap erg belangrijk. Zorg dat je melkvervanger dat ook levert. Er wordt aangeraden om per dag 3-4 porties zuivel binnen te krijgen voor de botopbouw van je baby.",
+    "safety": 0
+  },
+  {
+    "id": 37,
+    "title": "Rauwe ham",
+    "synonyms": ["Serranoham", "Parmaham", "Iberico ham", "Coburgerham", "Prosciutto", "Schwarzwälder Schinken", "Countryham", "Jamon curado", "Betuwse plaatham"],
+    "description": "Vlees wat nog rauw is kan schadelijke bacteriën of de parasiet toxoplasma gondii bevatten. Het is daarom belangrijk om geen rauwe vleeswaren binnen te krijgen tijdens je zwangerschap. Zorg ervoor dat het altijd helemaal doorbakken is.",
+    "safety": 2,
+    "alternative": "Goed verhitte rauwe ham (zoals op een pizza) of andere hamsoorten"
+  },
+  {
+    "id": 38,
+    "title": "Achterham",
+    "synonyms": ["Slagersachterham"],
+    "description": "Achterham kan je veilig eten tijdens je zwangerschap. Zorg er echter wel voor dat je geen achterham pakt waarbij de verpakking al langer dan twee dagen open is.",
+    "safety": 0,
+  },  
+  {
+    "id": 39,
+    "title": "Beenham",
+    "synonyms": ["Roasted ham"],
+    "description": "Beenham wordt op een veilige manier klaargemaakt, waardoor je dit kan eten tijdens je zwangerschap. Eet beenham wel met mate, zeker wanneer je een verhoogde kans hebt op een hoge bloeddruk, door het hoge zoutgehalte.",
+    "safety": 0,
+  },
+  {
+    "id": 40,
+    "title": "Boterhamworst",
+    "synonyms": ["Ardenner boterhamworst", "Figuurworst", "Figurenworst"],
+    "description": "Boterhamworst wordt op een veilige manier klaargemaakt, waardoor je dit kan eten tijdens je zwangerschap. Zorg er echter wel voor dat je geen achterham pakt waarbij de verpakking al langer dan twee dagen open is.",
+    "safety": 0,
+  },
+ {
+    "id": 41,
+    "title": "Chorizo",
+    "description": "Chorizo wordt niet verhit tijdens het productieproces, waardoor er dus een kans is dat er nog bacteriën in het vlees zitten. Eet dit daarom dus niet, tenzij je het van tevoren volledig verhit (zoals op een pizza). ",
+    "safety": 2,
+  },
+ {
+    "id": 42,
+    "title": "Carpaccio",
+    "description": "Vlees wat nog rauw is kan schadelijke bacteriën of de parasiet toxoplasma gondii bevatten. Het is daarom belangrijk om geen rauwe vleeswaren binnen te krijgen tijdens je zwangerschap. Zorg ervoor dat het altijd helemaal doorbakken is.",
+    "safety": 2,
+  },
+ {
+    "id": 43,
+    "title": "Ossenworst",
+    "description": "Vlees wat nog rauw is kan schadelijke bacteriën of de parasiet toxoplasma gondii bevatten. Het is daarom belangrijk om geen rauwe vleeswaren binnen te krijgen tijdens je zwangerschap. Zorg ervoor dat het altijd helemaal doorbakken is.",
+    "safety": 2,
+  },
+ {
+    "id": 44,
+    "title": "Tartaar",
+    "synonyms": ["Rundertartaar", "Duitse biefstuk", "Steaktartaar"],
+    "description": "Vlees wat nog rauw is kan schadelijke bacteriën of de parasiet toxoplasma gondii bevatten. Het is daarom belangrijk om geen rauwe vleeswaren binnen te krijgen tijdens je zwangerschap. Zorg ervoor dat het altijd helemaal doorbakken is.",
+    "safety": 1,
+  },
+ {
+    "id": 45,
+    "title": "Kalkoen",
+    "synonyms": ["Kalkoenfilet", "Kalkoenham"],
+    "description": "Kalkoen kan je gewoon eten als het goed verhit is geweest.",
+    "safety": 0,
+  },
+ {
+    "id": 46,
+    "title": "Rundvlees",
+    "synonyms": ["Rundergehakt", "Beefburger", "Hamburger", "Runderchipolata", "Biefstuk", "Runderbraadworst", "Rundertartaar"],
+    "description": "Rundvlees bevat onder andere B6, B12 en ijzer en is daarom goed om te eten tijdens de zwangerschap. Zorg er wel voor dat het goed doorbakken is of dat het minimaal twee dagen in de vriezer heeft gelegen (minstens -12° C).",
+    "safety": 1,
+  },
+ {
+    "id": 47,
+    "title": "Fricandeau",
+    "description": "Fricandeau is over het algemeen al gebraden waardoor je het veilig kan eten tijdens je zwangerschap. Haal je het bij de slager, vraag dan even na of de fricandeau niet rauw is.",
+    "safety": 0,
+  },
+  {
+    "id": 48,
+    "title": "Gehakt",
+    "synonyms": ["Gehaktbal", "Half-om-half gehakt", "Gebraden gehakt", "Gegrild gehakt", "Rulgehakt", "Kipgehakt"],
+    "description": "Dit kan je veilig eten wanneer het goed doorbakken is. Zorg ervoor dat het vlees van binnen en buiten niet meer rood of roze is.",
+    "safety": 0,
+  },
+  {
+    "id": 49,
+    "title": "Kant-en-klare vleesvervangers",
+    "description": "Dit kan je veilig eten wanneer het goed doorbakken is. Zorg ervoor dat het vlees van binnen en buiten niet meer rood of roze is.",
+    "safety": 0,
+  },
+  {
+    "id": 50,
+    "title": "Falafel",
+    "safety": 0,
+  },
+  {
+    "id": 51,
+    "title": "Tofu",
+    "description": "Dit kan je veilig eten tijdens je zwangerschap. Neem het echter niet meer dan twee keer in de week, omdat je anders te veel isoflavonen binnen krijgt. Dit kan invloed hebben op de geslachtsorganen van jouw baby.",
+    "safety": 0,
+  },
+  {
+    "id": 52,
+    "title": "Seitan",
+    "description": "Dit kan je veilig eten tijdens je zwangerschap. Neem het echter niet meer dan twee keer in de week, omdat je anders te veel isoflavonen binnen krijgt. Dit kan invloed hebben op de geslachtsorganen van jouw baby.",
+    "safety": 0,
+  },
+  {
+    "id": 53,
+    "title": "Tempé",
+    "description": "Dit kan je veilig eten tijdens je zwangerschap. Neem het echter niet meer dan twee keer in de week, omdat je anders te veel isoflavonen binnen krijgt. Dit kan invloed hebben op de geslachtsorganen van jouw baby.",
+    "safety": 0,
+  },
+    {
+    "id": 54,
+    "title": "Sojaroom",
+    "description": "Dit kan je veilig eten tijdens je zwangerschap. Neem het echter niet meer dan twee keer in de week, omdat je anders te veel isoflavonen binnen krijgt. Dit kan invloed hebben op de geslachtsorganen van jouw baby.",
+    "safety": 0,
+  },
+  {
+    "id": 55,
+    "title": "Sojayoghurt",
+    "description": "Dit kan je veilig eten tijdens je zwangerschap. Neem het echter niet meer dan twee keer in de week, omdat je anders te veel isoflavonen binnen krijgt. Dit kan invloed hebben op de geslachtsorganen van jouw baby.",
+    "safety": 0,
+  },
+  {
+    "id": 56,
+    "title": "Griekse yoghurt",
+    "description": "Griekse yoghurt is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 57,
+    "title": "Turkse yoghurt",
+    "description": "Turkse yoghurt is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 58,
+    "title": "Drinkyoghurt",
+    "description": "Drinkyoghurt is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 59,
+    "title": "Kwark",
+    "synonyms": ["Halfvolle kwark", "Vruchtenkwark", "Magere kwark"],
+    "description": "Kwark is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 60,
+    "title": "Kefir",
+    "description": "Kefir is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 61,
+    "title": "Yoghurt",
+    "synonyms": ["Halfvolle yoghurt", "Vanilleyoghurt", "Volle yoghurt", "Yoghurtdrank"],
+    "description": "Yoghurt is erg gezond om te eten tijdens je zwangerschap omdat het een bron van calcium is. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 62,
+    "title": "Crème fraîche",
+    "description": "Crème fraîche draagt bij aan je dagelijkse hoeveelheid calcium. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 63,
+    "title": "Zure room",
+    "description": "Zure room draagt bij aan je dagelijkse hoeveelheid calcium. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 64,
+    "title": "Slagroom",
+    "synonyms": ["Opgeklopte slagroom", "Verse slagroom", "Geslagen room"],
+    "description": "Slagroom draagt bij aan je dagelijkse hoeveelheid calcium. Calcium is belangrijk voor de botopbouw van je baby en er wordt aangeraden om iedere dag minimaal 3 tot 4 porties zuivel binnen te krijgen.",
+    "safety": 0,
+  },
+  {
+    "id": 65,
+    "title": "Hardgekookt ei",
+    "description": "Eet een ei alleen als zowel het eiwit als het eigeel helemaal is gestold. Kook daarom je ei minimaal 8 minuten voordat je hem eet.\n\nEet daarom geen gerechten waar rauw ei in wordt gebruikt.",
+    "safety": 0,
+  },
+  {
+    "id": 66,
+    "title": "Zachtgekookt ei",
+    "description": "Eet een ei alleen als zowel het eiwit als het eigeel helemaal is gestold. Kook daarom je ei minimaal 8 minuten voordat je hem eet.",
+    "alternative": "Hardgekookt ei",
+    "safety": 2,
+  },
+  {
+    "id": 67,
+    "title": "Gevuld ei",
+    "description": "Een gevuld ei kan je in principe gewoon eten als er maar geen mayonaise is gebruikt die is gemaakt van rauwe eieren. Mayonaise uit de supermarkt is veilig om te eten.",
+    "safety": 0,
+  },
+    {
+    "id": 68,
+    "title": "Gebakken ei",
+    "synonyms": ["Omelet"],
+    "description": "Eet een ei alleen als zowel het eiwit als het eigeel helemaal is gestold, ook wanneer je jouw eitje bakt.",
+    "safety": 1,
+  },
+    {
+    "id": 69,
+    "title": "Gebakken ei",
+    "synonyms": ["Omelet"],
+    "description": "Eet een ei alleen als zowel het eiwit als het eigeel helemaal is gestold, ook wanneer je jouw eitje bakt.",
+    "safety": 1,
+  },
+    {
+    "id": 70,
+    "title": "Komkommer",
+    "synonyms": ["Snoepkomkommer"],
+    "safety": 0,
+  },
+    {
+    "id": 71,
+    "title": "Avocado",
+    "synonyms": ["Babyavocado"],
+    "safety": 0,
+  },
+    {
+    "id": 72,
+    "title": "Paprika",
+    "synonyms": ["Gele paprika", "Rode paprika", "Oranje paprika", "Groene paprika", "Puntpaprika", "Sweet palermo"],
+    "safety": 0,
+  },
+    {
+    "id": 73,
+    "title": "Tomaat",
+    "synonyms": ["Cherrytomaat", "Snoeptomaat", "Roma tomaat", "Tasty Tom", "Trostomaat", "Rivolo", "Honingtomaat", "Vlees tomaat", "Coeur de Boeuf"],
+    "safety": 0,
+  },
+     {
+    "id": 74,
+    "title": "Maïs",
+    "synonyms": ["Crispy maïs", "Maïskolf"],
+    "safety": 0,
+  },
+    {
+    "id": 75,
+    "title": "Brocolli",
+    "synonyms": ["Aspergebrocolli", "Bimi", "Brocollini"],
+    "safety": 0,
+  },
+    {
+    "id": 76,
+    "title": "Spruiten",
+    "synonyms": ["Spruitjes"], 
+    "safety": 0,
+  },
+    {
+    "id": 78,
+    "title": "Paksoi",
+    "synonyms": ["Baby-paksoi", "Baak choi"], 
+    "safety": 0,
+  },
+    {
+    "id": 79,
+    "title": "Spinazie",
+    "synonyms": ["Babyspinazie", "Spinazie à la creme", "Bladspinazie"], 
+    "safety": 0,
+  },
+    {
+    "id": 80,
+    "title": "Andijvie",
+    "safety": 0,
+  },
+    {
+    "id": 81,
+    "title": "Witlof",
+    "safety": 0,
+  },
+    {
+    "id": 82,
+    "title": "Roodlof",
+    "safety": 0,
+  },
+    {
+    "id": 83,
+    "title": "Sla",
+    "synonyms": ["IJsbergsla", "Rucola", "Slamelange", "Veldsla", "Kropsla", "Eikenblad sla", "Botersla", "Salademix", "Krulsla", "Bladsla", "Romaine", "Waterkers", "Misticanza", "Mesclun", "Kluitsla"],
+    "safety": 0,
+  },
+    {
+    "id": 84,
+    "title": "Kool",
+    "synonyms": ["Boerenkool","Bloemkool","Rode kool","Witte kool", "Zuurkool", "Spitskool","Chinese kool", "Koolrabi"],
+    "safety": 0,
+  },
+    {
+    "id": 85,
+    "title": "Wortel",
+    "synonyms": ["Winterpeen","Bospeen", "Peen julienne"],
+    "safety": 0,
+  },
+    {
+    "id": 86,
+    "title": "Radijs",
+    "safety": 0,
+  },
+    {
+    "id": 87,
+    "title": "Rode bieten",
+    "safety": 0,
+  },
+    {
+    "id": 88,
+    "title": "Knolselderij",
+    "safety": 0,
+  },
+    {
+    "id": 89,
+    "title": "Pastinaak",
+    "safety": 0,
+  },
+    {
+    "id": 90,
+    "title": "Zoete aardappel",
+    "synonyms": ["Bataat"],
+    "safety": 0,
+  },
+      {
+    "id": 91,
+    "title": "Sperziebonen",
+    "safety": 0,
+  },
+    {
+    "id": 92,
+    "title": "Haricots verts",
+    "safety": 0,
+  },
+    {
+    "id": 93,
+    "title": "Snijbonen",
+    "safety": 0,
+  },
+    {
+    "id": 94,
+    "title": "Peultjes",
+    "safety": 0,
+  },
+  {
+    "id": 95,
+    "title": "Sugar snaps",
+    "safety": 0,
+  },
+    {
+    "id": 96,
+    "title": "Doperwten",
+    "safety": 0,
+  },
+    {
+    "id": 97,
+    "title": "Kikkererwten",
+    "safety": 0,
+  },
+    {
+    "id": 98,
+    "title": "Kidneybonen",
+    "safety": 0,
+  },
+    {
+    "id": 99,
+    "title": "Witte bonen",
+    "synonyms": ["Witte bonen in tomatensaus", "Heinz Beanz"],
+    "safety": 0,
+  },
+    {
+    "id": 100,
+    "title": "Bruine bonen",
+    "synonyms": ["Kievietsbonen"],
+    "safety": 0,
+  },
+    {
+    "id": 125,
+    "title": "Zwarte bonen",
+    "synonyms": ["Black eyed bonen", "Zwarte oogbonen", "Zwarte mung splitbonen"],
+    "safety": 0,
+  },
+    {
+    "id": 101,
+    "title": "Aubergine",
+    "synonyms": ["Chinese aubergine"],
+    "safety": 0,
+  },
+    {
+    "id": 102,
+    "title": "Courgette",
+    "synonyms": ["Gele courgette"],
+    "safety": 0,
+  },
+    {
+    "id": 103,
+    "title": "Pompoen",
+    "synonyms": ["Flespompoen", "Muskaat pompoen"],
+    "safety": 0,
+  },
+    {
+    "id": 104,
+    "title": "Paddenstoelen melange",
+    "description": "Paddenstoelen mag je gewoon eten, als je ze van tevoren goed schoonmaakt en vervolgens bakt, stooft of smoort. Op dit manier wordt agaritine afgebroken, een stof die schadelijk kan zijn voor je baby.",
+    "safety": 0,
+  },
+    {
+    "id": 105,
+    "title": "Champignons",
+    "synonyms": ["Witte champignons", "Kastanjechampignons"],
+    "description": "Champignons mag je gewoon eten, als je ze van tevoren goed schoonmaakt en vervolgens bakt, stooft of smoort. Op dit manier wordt agaritine afgebroken, een stof die schadelijk kan zijn voor je baby.", 
+    "safety": 0,
+  },
+    {
+    "id": 106,
+    "title": "Oesterzwammen",
+    "synonyms": ["Koningsoesterzwam"],
+    "description": "Oesterzwammen mag je gewoon eten, als je ze van tevoren goed schoonmaakt en vervolgens bakt, stooft of smoort. Op dit manier wordt agaritine afgebroken, een stof die schadelijk kan zijn voor je baby.", 
+    "safety": 0,
+  },
+    {
+    "id": 107,
+    "title": "Shiitake",
+    "description": "Shiitake mag je gewoon eten, als je ze van tevoren goed schoonmaakt en vervolgens bakt, stooft of smoort. Op dit manier wordt agaritine afgebroken, een stof die schadelijk kan zijn voor je baby./n/nIn shiitake zit veel vitamine D2 wat zorgt voor gezonde en stevige botten voor jou en je baby.", 
+    "safety": 0,
+  },
+    {
+    "id": 108,
+    "title": "Bleekselderij",
+    "description": "Bleekselderij mag je zeker eten als je zwanger bent, als je het maar grondigt wast voordat je het eet.",
+    "safety": 0,
+  },
+      {
+    "id": 109,
+    "title": "Asperges",
+    "synonyms": ["Groene asperges", "Witte asperges", "Aspergetips"],
+    "description": "Asperges kunnen veilig worden gegeten tijdens de zwangerschap als je het maar goed wast voordat je het gebruikt./n/n Asperges zitten vol met vitamine en mineralen, zoals vitamine B9, calcium en foliumzuur. ",
+    "safety": 0,
+  },
+  {
+    "id": 110,
+    "title": "Artisjok",
+    "synonyms": ["Artisjokharten","Gemarineerde artisjok", "Gegrilde artisjok in olie"],
+    "safety": 0,
+  },
+    {
+    "id": 111,
+    "title": "Rabarber",
+    "synonyms": ["Rabarbercompote", "Rabarbermoes"],
+    "safety": 0,
+  },
+    {
+    "id": 112,
+    "title": "Venkel",
+    "description": "Verse venkel mag je gewoon eten als je zwanger bent, mits je het goed wast. Venkelzaad wordt echter afgeraden omdat hier onder andere de stof estragol in zit, wat kan leiden tot leverschade bij de baby.",
+    "safety": 0,
+  },
+    {
+    "id": 113,
+    "title": "Prei",
+    "synonyms": ["Prei a la creme"],
+    "safety": 0,
+  },
+    {
+    "id": 114,
+    "title": "Ui",
+    "synonyms": ["Gele ui", "Rode ui", "Sjalotten", "Bosui"],
+    "safety": 0,
+  },
+      {
+    "id": 115,
+    "title": "Knoflook",
+    "safety": 0,
+  },
+    {
+    "id": 116,
+    "title": "Taugé",
+    "description": "Taugé tref je soms rauw aan in gerechten. Eet taugé echter alleen wanneer het goed gebakken of gekookt is, om besmetting door salmonella, E.coli en toxoplasmose te voorkomen. ",
+    "safety": 1,
+  },
+    {
+    "id": 117,
+    "title": "Tuinkers",
+    "description": "Eet het alleen als het echt goed is gewassen.",
+    "safety": 1,
+  },     
+  {
+    "id": 118,
+    "title": "Alfalfa",
+    "description": "Eet het alleen als het echt goed is gewassen.",
+    "safety": 1,
+  },
+    {
+    "id": 119,
+    "title": "Sojabonen",
+    "description": "Sojabonen kan je veilig eten, maar zorg er voor dat je maximaal 2 keer per week sojaproducten eet. Anders krijg je mogelijk te veel isoflavonen binnen, die invloed kunnen hebben op het geslachtsorgaan van jouw baby.",
+    "safety": 0,
+  },
+    {
+    "id": 120,
+    "title": "Kiemgroenten",
+    "description": "Eet het alleen als het echt goed is gewassen.",
+    "safety": 1,
+  },
+    {
+    "id": 121,
+    "title": "Zeewier",
+    "synonyms": ["Zeewiersalade", "Nori", "Wakame"],
+    "safety": 0,
+  },
+    {
+    "id": 122,
+    "title": "Zeekraal",
+    "description": "Eet het alleen als het echt goed is gewassen.",
+    "safety": 0,
+  },
+    {
+    "id": 123,
+    "title": "Appels",
+    "synonyms": ["Jonagold", "Elstars", "Pink Lady", "Jazz appel", "Fuji appel", "Royal Gala", "Granny Smith", "Junami", "Kanzi", "Golden delicious", "Delcorf"],
+    "description": "Je kan appels veilig eten tijdens je zwangerschap, maar zorg dat het eerst goed is gewassen.",
+    "safety": 0,
+  },
+        {
+    "id": 124,
+    "title": "Bananen",
+    "safety": 0,
+  },
+    {
+    "id": 126,
+    "title": "Mandarijnen",
+    "synonyms": ["Mandarijnen op sap"],
+    "safety": 0,
+  },
+]
